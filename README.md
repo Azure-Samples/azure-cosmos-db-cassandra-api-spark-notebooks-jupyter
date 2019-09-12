@@ -1,3 +1,14 @@
+---
+page_type: sample
+languages:
+- 
+products:
+- azure
+description: "This repository contains a set of Jupyter notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark.
+The notebooks cover"
+urlFragment: azure-cosmos-db-cassandra-api-spark-notebooks-jupyter
+---
+
 # Working with Azure Cosmos DB Cassandra API from Spark on HDInsight-Spark Jupyter notebooks
 
 This repository contains a set of Jupyter notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark.
