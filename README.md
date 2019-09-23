@@ -1,11 +1,10 @@
 ---
 page_type: sample
 languages:
-- 
+- python
 products:
 - azure
-description: "This repository contains a set of Jupyter notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark.
-The notebooks cover"
+description: "This repository contains a set of Jupyter notebooks that introduce working with Azure Cosmos DB Cassandra API from Spark."
 urlFragment: azure-cosmos-db-cassandra-api-spark-notebooks-jupyter
 ---
 
